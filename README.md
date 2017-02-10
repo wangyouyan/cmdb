@@ -13,6 +13,9 @@ git config --global user.email "wyyservice@gmail.com"
 
 #功能说明
   1. 用户注册、登录、注销;
+  
   2. 资产录入；
+  
   3. 资产编辑;
+  
   4. 资产查询;
